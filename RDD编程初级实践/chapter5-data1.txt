@@ -1,0 +1,6 @@
+Tom,DataBase,80
+Tom,Algorithm,50
+Tom,DataStructure,60
+Jim,DataBase,90
+Jim,Algorithm,60
+Jim,DataStructure,80

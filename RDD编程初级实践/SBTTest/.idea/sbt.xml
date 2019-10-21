@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="/usr/local/sbt/bin/sbt-launch.jar" />
+    <option name="customVMPath" />
+    <option name="vmParameters" value="-Dsbt.boot.directory=file:///usr/local/sbt/boot -Dsbt.ivy.home=file:///usr/local/sbt/.ivy2 -Dsbt.global.base=file:///usr/local/sbt/.sbt" />
+  </component>
+</project>
